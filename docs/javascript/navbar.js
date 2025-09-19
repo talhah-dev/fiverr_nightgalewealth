@@ -7,7 +7,7 @@ dynamic_navbar.innerHTML = `
 
       <!-- Logo -->
       <a href="/index.html" class="flex items-center justify-center lg:justify-start" aria-label="Nightgale Wealth Home">
-        <img src="/docs/assets/images/logo.svg" class="md:h-9 h-6" alt="Nightgale Wealth logo">
+        <img src="/docs/assets/images/logo.png" class="md:h-16 h-12" alt="Nightgale Wealth logo">
       </a>
 
       <!-- Desktop Nav -->
