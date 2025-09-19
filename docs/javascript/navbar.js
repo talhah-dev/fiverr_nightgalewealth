@@ -15,9 +15,9 @@ dynamic_navbar.innerHTML = `
         <div class="md:flex items-center gap-10 hidden">
           <ul class="md:flex hidden items-center text-zinc-800 font-medium uppercase gap-10">
             <li><a href="/index.html" class="hover:text-[#C9A227] transition-all duration-300">Home</a></li>
+            <li><a href="/about.html" class="hover:text-[#C9A227] transition-all duration-300">About </a></li>
             <li><a href="/services.html" class="hover:text-[#C9A227] transition-all duration-300">Services</a></li>
             <li><a href="/disclosures.html" class="hover:text-[#C9A227] transition-all duration-300">Disclosures</a></li>
-            <li><a href="/contact.html" class="hover:text-[#C9A227] transition-all duration-300">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -46,9 +46,9 @@ dynamic_navbar.innerHTML = `
     <div class="p-6">
       <ul class="flex relative z-50 text-zinc-800 font-medium uppercase flex-col gap-7">
         <li><a href="/index.html" class="mobileMenuCloseBtn hover:text-[#C9A227] transition-all duration-300">Home</a></li>
+        <li><a href="/about.html" class="mobileMenuCloseBtn hover:text-[#C9A227] transition-all duration-300">About</a></li>
         <li><a href="/services.html" class="mobileMenuCloseBtn hover:text-[#C9A227] transition-all duration-300">Services</a></li>
         <li><a href="/disclosures.html" class="mobileMenuCloseBtn hover:text-[#C9A227] transition-all duration-300">Disclosures</a></li>
-        <li><a href="/contact.html" class="mobileMenuCloseBtn hover:text-[#C9A227] transition-all duration-300">Contact</a></li>
       </ul>
 
       <a href="/contact.html"

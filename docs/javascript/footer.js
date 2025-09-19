@@ -31,10 +31,9 @@ footer.innerHTML = `
       <ul class="mt-5 space-y-3 text-zinc-700 font-medium">
         <li><a href="/index.html#home" class="hover:text-[#8C6A1C]">Home</a></li>
         <li><a href="/services.html" class="hover:text-[#8C6A1C]">Services</a></li>
+        <li><a href="/about.html" class="hover:text-[#8C6A1C]">About</a></li>
         <li><a href="/disclosures.html" class="hover:text-[#8C6A1C]">Disclosures</a></li>
         <li><a href="/index.html#faq" class="hover:text-[#8C6A1C]">FAQ</a></li>
-        <li><a href="/insights.html" class="hover:text-[#8C6A1C]">Market Insights</a></li>
-        <li><a href="/contact.html" class="hover:text-[#8C6A1C]">Contact</a></li>
       </ul>
     </div>
 
